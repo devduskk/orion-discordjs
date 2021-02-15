@@ -1,0 +1,35 @@
+####################################
+#                                  #
+#     CHANNEL ID CONFIGURATION     #
+#                                  #
+####################################
+
+punishmentID: "804881923922984971" # ID do Canal de Punições.
+attendanceID: "N/A" # ID do Canal de Atendimento.
+announceID: "804881911603920906" # ID do Canal de Anúncio.
+spoilerID: "804881912497438750" # ID do Canal de Spoiler.
+captchaID: "804884134412550144" # ID do Canal de Captcha.
+
+####################################
+#                                  #
+#      ROLES ID CONFIGURATION      #
+#                                  #
+####################################
+
+captchaRoleID: "804881895992983582"
+
+# Lembrando que, para você conseguir pegar o ID de algum canal/cargo em seu Discord,
+# você precisa ativar o modo de desenvolvedor nas configurações da sua conta em Aparência.
+
+# Aqui está uma imagem de como ativar o modo desenvolvedor: https://prnt.sc/yg8rr2
+
+#---------------------------------------------#
+
+# Após ter feito isso, basta clicar com o botão direito no canal/cargo e clicar em "Copiar ID".
+
+####################################
+#       Orion Official Robot       #
+#     ©️ Made by: devdüskk#0001     #
+#                                  #
+#    https://github.com/devduskk   #
+####################################
