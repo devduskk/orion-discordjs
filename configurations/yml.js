@@ -6,7 +6,7 @@ module.exports = function (fileName) {
             resolve(YAML.parse(fs.readFileSync(fileName, 'utf-8')));
         } catch (err) {
             resolve({});
-            console.log("ERROR! Config file not indented properly. Debug: " + err);
+            console.log("ERROR! Debug: " + err);
         }
     })
 }
