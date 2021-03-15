@@ -1,5 +1,5 @@
 {
-  "name": "orion",
+  "name": "OrionBOT",
   "version": "1.0.0",
   "description": "Orion Official Robot",
   "main": "app.js",
@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "async_hooks": "^1.0.0",
-    "discord-player": "^3.0.3",
     "discord.js": "^12.5.1",
     "discord.js-pagination": "^1.0.3",
     "fs": "0.0.1-security",
